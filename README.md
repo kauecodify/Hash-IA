@@ -1,4 +1,4 @@
-![brasil](brasil.gif)
+<img src="brasil.gif" alt="Brasil" width="90" height="45"/>
 
 # Hash-IA
 
