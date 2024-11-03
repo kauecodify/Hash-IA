@@ -13,3 +13,6 @@ comandos no terminal:
 **start debugger**
 
 ----------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/21e411c9-4b14-462b-a036-090c081a94c3)
+
